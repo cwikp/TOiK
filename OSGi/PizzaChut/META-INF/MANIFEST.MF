@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PizzaChut
+Bundle-SymbolicName: PizzaChut
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: PizzaDelivery;bundle-version="1.0.0"
